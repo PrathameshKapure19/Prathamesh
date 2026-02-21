@@ -64,6 +64,6 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 ---
 
 ## 📫 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
-- 💻 [GitHub](https://github.com/your-github-username)
+- 💼 [LinkedIn](https://www.linkedin.com/in/prathamesh-kapure-472a30266)
+- 💻 [GitHub](https://github.com/PrathameshKapure19)
 ---
