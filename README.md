@@ -54,7 +54,7 @@ I am actively strengthening my skills in **SystemVerilog and UVM-based verificat
 - Developed an **embedded ECU** for electric two-wheelers integrating multiple sensors and control units
 - Implemented **fault detection, safety interlocks, and protective mechanisms** to enhance rider and system safety
 ---
-
+ 
 ## 📌 Core Strengths
 - Design-aware verification mindset  
 - Strong understanding of **setup/hold, timing paths, and CDC basics**  
